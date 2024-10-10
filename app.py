@@ -5,7 +5,7 @@ Created on Sat Jun 26 11:45:03 2021
 @author: noopa
 """
 
-pip install --upgrade pip
+ 
 import numpy as np
 import pickle
 import pandas as pd
